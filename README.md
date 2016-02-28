@@ -9,6 +9,9 @@ Command line tool to build xcode projects on any platform
 ## Features
 
 - Build Xcode projects on OS X and Linux
+	- Products and Intermediates can be found in:
+		- Linux: `~/.pbxbuild/DerivedData/<project_name>/`
+		- OS X: `~/Application Support/PBXBuild/DerivedData/<project_name>/`
 
 ## Additional features
 
