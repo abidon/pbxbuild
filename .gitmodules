@@ -1,0 +1,9 @@
+[submodule "libpbxparser"]
+	path = libpbxparser
+	url = https://github.com/GuardianEngine/libpbxparser.git
+[submodule "argh"]
+	path = argh
+	url = https://github.com/aardvarkk/argh.git
+[submodule "rapidjson"]
+	path = rapidjson
+	url = https://github.com/miloyip/rapidjson
