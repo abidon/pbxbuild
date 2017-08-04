@@ -1,7 +1,7 @@
 # PBXBuild
 Command line tool to build xcode projects on any platform
 
-###### This project is under active development and subject to breaking changes.
+###### This project is not under development anymore and should not be used as-is.
 
 * How to build: `make`
 * How to use (quick start): `pbxbuild -project MySuperProject.xcodeproj -target MySuperApp`
